@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tools>
+<tool image="c:\" pattern="" window="AUSSEN.V">
+<attribute changeable="false" name="Werkzeug type" necessary="true" postfix="false" prefix="false" searchable="true" type="T" value="s"/>
+<attribute changeable="false" name="Werkzeug art" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value="d"/>
+<attribute changeable="false" name="Platte" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value="d"/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+</tool>
+<tool image="D:\ECLIPSE_WORKSPACE\std\Workbench\data\images\2837_271.png" pattern="" window="wind">
+<attribute changeable="false" name="Werkzeug type" necessary="true" postfix="false" prefix="false" searchable="true" type="T" value="2837"/>
+<attribute changeable="false" name="Werkzeug art" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value="271"/>
+<attribute changeable="false" name="Platte" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value="8281"/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+</tool>
+<tool image="" pattern="" window="wind">
+<attribute changeable="false" name="Werkzeug type" necessary="true" postfix="false" prefix="false" searchable="true" type="T" value="2837"/>
+<attribute changeable="false" name="Werkzeug art" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value="new tool"/>
+<attribute changeable="false" name="Platte" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+</tool>
+<tool image="c:\" pattern="" window="AUSSEN.V">
+<attribute changeable="false" name="Werkzeug type" necessary="true" postfix="false" prefix="false" searchable="true" type="T" value="2"/>
+<attribute changeable="false" name="Werkzeug art" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value="2"/>
+<attribute changeable="false" name="Platte" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value="2"/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+</tool>
+<tool image="D:\ECLIPSE_WORKSPACE\std\Workbench\data\images\_DUMMY.png" pattern="" window="AUSSEN.V">
+<attribute changeable="false" name="Werkzeug type" necessary="true" postfix="false" prefix="false" searchable="true" type="T" value=""/>
+<attribute changeable="false" name="Werkzeug art" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value="DUMMY"/>
+<attribute changeable="false" name="Platte" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+</tool>
+<tool image="D:\ECLIPSE_WORKSPACE\std\Workbench\data\images\qw_w.png" pattern="" window="AUSSEN.V">
+<attribute changeable="false" name="Werkzeug type" necessary="true" postfix="false" prefix="false" searchable="true" type="T" value="qw"/>
+<attribute changeable="false" name="Werkzeug art" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value="w"/>
+<attribute changeable="false" name="Platte" necessary="true" postfix="false" prefix="false" searchable="true" type="W" value="w"/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+<attribute changeable="true" name="" necessary="false" postfix="false" prefix="false" searchable="false" type="" value=""/>
+</tool>
+</tools>

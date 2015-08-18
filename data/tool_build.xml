@@ -1,0 +1,22 @@
+<tool name.number="1" type.number="0" platte.number="2">
+	<attribute name = "Werkzeug type" type = "T" changeable="false" necessary="true" searchable="true"/>
+	<attribute name = "Werkzeug art" type = "W" changeable="false" necessary="true" searchable="true"/>
+	<attribute name = "Platte" type = "W" changeable="false" necessary="true" searchable="true"/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+	<attribute/>
+</tool>
